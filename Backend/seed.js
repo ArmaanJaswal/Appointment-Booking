@@ -1,4 +1,4 @@
-// seed.js
+
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
 import Appointment from './models/appointment.js'
